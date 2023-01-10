@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/TMS-20-PA-21WO">
-    <img src="" alt="Logo DuaSatu WO" width="300">
+    <img src="https://duasatuwo.com/images/logo21-2.png" alt="Logo DuaSatu WO" width="300">
   </a>
 </p>
 
