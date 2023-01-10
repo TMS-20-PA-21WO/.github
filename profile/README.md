@@ -19,6 +19,8 @@ Thanks goes to these wonderful people
   <tr>
     TEAM ID 21WO :
     <td align="center"><a href="https://github.com/fajaralf"><img src="https://avatars.githubusercontent.com/u/91827168?v=4" width="100px;" alt=""/><br /><sub><b>F478X0997</b></sub></a><br /><a href="https://www.linkedin.com/in/fajaralfiantino/"><p style="font-size:10px">Fajar Alfiantino</p></td>
+    <td align="center"><a href="https://github.com/YudhistiraKusuma202310067"><img src="https://avatars.githubusercontent.com/u/92003361?v=4" width="100px;" alt=""/><br /><sub><b>F478X0997</b></sub></a><br /><a href="https://www.linkedin.com/in/yudhistira-kusuma/"><p style="font-size:10px">Yudhistira Kusuma</p></td>
+    <td align="center"><a href="https://github.com/Michahide"><img src="https://avatars.githubusercontent.com/u/73429490?v=4" width="100px;" alt=""/><br /><sub><b>F478X0997</b></sub></a><br /><a href="https://www.linkedin.com/in/michael-mervin/"><p style="font-size:10px">Michael Mervin Ruswan</p></td>
     
   </tr>
 </table>
