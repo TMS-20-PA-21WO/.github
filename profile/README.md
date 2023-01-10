@@ -50,4 +50,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 | [Bootstrap](https://getbootstrap.com/)      |  [Webpack](https://webpack.js.org/)      | [Github](https://github.com/)      |
 |-------------|-------------|-------------|-------------|-------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="100"> | <img src="https://codecept.io/logo.svg" width="100"> | <img src="https://webpack.js.org/site-logo.1fcab817090e78435061.svg" width="228"> | <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="100"> | <img src="https://karmanivero.us/assets/images/vercel-logo.png" width="100"> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="100"> | <img src="https://webpack.js.org/site-logo.1fcab817090e78435061.svg" width="228"> | <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="100"> |
