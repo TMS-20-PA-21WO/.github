@@ -21,7 +21,13 @@ Thanks goes to these wonderful people
     <td align="center"><a href="https://github.com/fajaralf"><img src="https://avatars.githubusercontent.com/u/91827168?v=4" width="100px;" alt=""/><br /><sub><b>202310072</b></sub></a><br /><a href="https://www.linkedin.com/in/fajaralfiantino/"><p style="font-size:10px">Fajar Alfiantino</p></td>
     <td align="center"><a href="https://github.com/YudhistiraKusuma202310067"><img src="https://avatars.githubusercontent.com/u/92003361?v=4" width="100px;" alt=""/><br /><sub><b>202310067</b></sub></a><br /><a href="https://www.linkedin.com/in/yudhistira-kusuma/"><p style="font-size:10px">Yudhistira Kusuma</p></td>
     <td align="center"><a href="https://github.com/Michahide"><img src="https://avatars.githubusercontent.com/u/73429490?v=4" width="100px;" alt=""/><br /><sub><b>202310016</b></sub></a><br /><a href="https://www.linkedin.com/in/michael-mervin/"><p style="font-size:10px">Michael Mervin Ruswan</p></td>
-    
+  </tr>
+</table>
+
+<table>
+  <tr>
+    Special Thanks to Our Microservice Lecturer :
+    <td align="center"><a href="https://github.com/FebryFairuz"><img src="https://avatars.githubusercontent.com/u/1103950?v=4" width="100px;" alt=""/><br /></a><br /><a href="https://github.com/FebryFairuz"><p style="font-size:10px">Febri Damatraseta Fairuz</p></td>
   </tr>
 </table>
 
